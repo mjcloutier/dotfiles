@@ -58,14 +58,14 @@ setopt AUTOCD
 setopt AUTOPUSHD PUSHDMINUS PUSHDSILENT PUSHDTOHOME
 setopt cdablevars
 
-# Try to correct command line spelling
+# try to correct command line spelling
 setopt CORRECT CORRECT_ALL
 
-# Enable extended globbing
+# enable extended globbing
 setopt EXTENDED_GLOB
 
 # aliases
 [[ -f ~/.aliases ]] && source ~/.aliases
 
-# Local config
+# local config
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
