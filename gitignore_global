@@ -42,3 +42,7 @@ Thumbs.db
 vendor/bundle
 vendor/gems
 vendor/cache
+
+# Rails Sepecific #
+###################
+.env
