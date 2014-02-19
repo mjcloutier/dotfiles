@@ -72,7 +72,7 @@ endif
 " Color scheme
 syntax enable
 set background=dark
-colorscheme solarized
+colorscheme sexy-railscasts-256
 
 " Numbers
 set number
