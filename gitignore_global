@@ -43,6 +43,6 @@ vendor/bundle
 vendor/gems
 vendor/cache
 
-# Rails Sepecific #
+# Rails Specific #
 ###################
 .env

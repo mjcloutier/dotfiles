@@ -20,5 +20,8 @@
 [include]
   path = .gitconfig.local
 [filter "media"]
-	clean = git-media-clean %f
-	smudge = git-media-smudge %f
+	clean = git media clean %f
+	smudge = git media smudge %f
+	required = true
+[user]
+	email = mcloutier@clarityservices.com
