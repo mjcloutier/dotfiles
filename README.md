@@ -1,4 +1,4 @@
-thoughtbot dotfiles
+Mjcloutier dotfiles
 ===================
 
 Requirements
